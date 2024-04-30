@@ -10,7 +10,6 @@ const Header = () => {
         className="border-none bg-transparent">
         <MenuIcon />
       </Button>
-
     </div>
   );
 }
