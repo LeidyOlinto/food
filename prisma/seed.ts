@@ -102,7 +102,7 @@ const createBurguers = async (
         name: "Double Cheese Burguer",
         price: 40,
         description: description,
-        discountPercentage: 7,
+        discountPercentage: 0,
         imageUrl:
           "https://utfs.io/f/dca007fe-0025-422e-9328-16d40f0a1792-yqapzy.png",
         restaurant: {
